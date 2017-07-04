@@ -1,7 +1,7 @@
 +(function(){
     $(document).ready(function() {
 	    $('#fullpage').fullpage({
-            'verticalCentered': false,
+            'verticalCentered': true,
             'continuousVertical': true,
             'css3': true,
             'navigation': true,
